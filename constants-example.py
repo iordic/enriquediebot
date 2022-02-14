@@ -1,3 +1,5 @@
+# HAY QUE RENOMBRAR ESTE FICHERO A "constants.py" Y CAMBIAR LOS VALORES QUE ESTÁN ENTRE LLAVES EN MAYÚSCULAS (perdón por gritar)
+
 # Generator
 BIN_FILE = 'generator.bin'
 AUTHOR_SIGN = "kikediebot"
