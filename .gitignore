@@ -1,0 +1,6 @@
+__pycache__/
+texts/
+other/*.html
+constants.py
+urls.txt
+generator.bin

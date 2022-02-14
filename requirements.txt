@@ -1,0 +1,5 @@
+markovify
+beautifulsoup4
+requests
+requests_oauthlib
+tweepy
